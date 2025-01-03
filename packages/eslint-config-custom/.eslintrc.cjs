@@ -103,6 +103,7 @@ module.exports = {
     '@typescript-eslint/prefer-ts-expect-error': 'off',
     '@typescript-eslint/prefer-optional-chain': 'off',
     '@typescript-eslint/no-unsafe-argument': 'off',
+    '@typescript-eslint/no-unsafe-call': 'off',
     '@typescript-eslint/use-unknown-in-catch-callback-variable': 'off',
     '@typescript-eslint/no-unsafe-return': 'off',
     '@typescript-eslint/no-unsafe-assignment': 'off',

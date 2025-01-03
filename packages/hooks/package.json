@@ -1,7 +1,7 @@
 {
-  "name": "tna-react-hooks",
-  "version": "1.0.1",
-  "description": "Hooks for TNA",
+  "name": "react-tna",
+  "version": "1.1.0",
+  "description": "React hook library, ready to use, written in Typescript.",
   "private": false,
   "author": "TuanNA <tuanna.fesd@gmail.com>",
   "homepage": "",
@@ -66,7 +66,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/tuannafed/react-tna"
+  },
+  "bugs": {
+    "url": "https://github.com/tuannafed/react-tna/issues"
   },
   "directories": {
     "test": "tests"

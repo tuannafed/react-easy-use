@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['custom'],
+  extends: ['config-custom'],
   plugins: ['jsdoc'],
   rules: {},
   overrides: [

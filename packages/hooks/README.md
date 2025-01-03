@@ -4,7 +4,7 @@ React hook, libs, utils, react UI framework, library, ready to use, written in T
 
 ## 💫 Introduction
 
-This is a React hooks library, written in TypeScript and easy to use. It provides a set of hooks that enables you to build your React applications faster. The hooks are built upon the principles of DRY (Don't Repeat Yourself). There are hooks for most common use cases you might need.
+This is a React hooks library, written in TypeScript and react-tna. It provides a set of hooks that enables you to build your React applications faster. The hooks are built upon the principles of DRY (Don't Repeat Yourself). There are hooks for most common use cases you might need.
 
 The library is designed to be as minimal as possible. It is fully tree-shakable (using the ESM version), meaning that you only import the hooks you need, and the rest will be removed from your bundle making the cost of using this library negligible. Most hooks are extensively tested and are being used in production environments.
 
@@ -43,7 +43,7 @@ function Component() {
 
 ## 📚 Features
 
-- **Easy to Use**: Minimal setup and easy integration.
+- **react-tna**: Minimal setup and easy integration.
 - **TypeScript Support**: Fully typed for a great developer experience.
 - **Tree-Shakable**: Import only what you need.
 - **Production-Ready**: Extensively tested and used in production.
@@ -64,13 +64,13 @@ Contributions are welcome! If you have ideas, suggestions, or find bugs, feel fr
 
    ```bash
    cd react-tna
-   npm install
+   pnpm install
    ```
 
 3. Start the development server:
 
    ```bash
-   npm run dev
+   pnpm dev
    ```
 
 ## 📄 License
